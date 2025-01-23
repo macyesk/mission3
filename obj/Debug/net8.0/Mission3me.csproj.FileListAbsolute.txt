@@ -1,0 +1,14 @@
+/Users/macyeskelsen/RiderProjects/Mission3me/bin/Debug/net8.0/Mission3me
+/Users/macyeskelsen/RiderProjects/Mission3me/bin/Debug/net8.0/Mission3me.deps.json
+/Users/macyeskelsen/RiderProjects/Mission3me/bin/Debug/net8.0/Mission3me.runtimeconfig.json
+/Users/macyeskelsen/RiderProjects/Mission3me/bin/Debug/net8.0/Mission3me.dll
+/Users/macyeskelsen/RiderProjects/Mission3me/bin/Debug/net8.0/Mission3me.pdb
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.AssemblyInfoInputs.cache
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.AssemblyInfo.cs
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.csproj.CoreCompileInputs.cache
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.dll
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/refint/Mission3me.dll
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.pdb
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/Mission3me.genruntimeconfig.cache
+/Users/macyeskelsen/RiderProjects/Mission3me/obj/Debug/net8.0/ref/Mission3me.dll
