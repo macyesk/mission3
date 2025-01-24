@@ -7,6 +7,7 @@ public class FoodItem
     public int Quantity;
     public string Date;
     
+    // create a FoodItem object that hols name, category quantity, and date
     public FoodItem(string name, string category, int quantity, string date)
     {
         Name = name;
